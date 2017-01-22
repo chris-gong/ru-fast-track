@@ -1,0 +1,7 @@
+#Sat Jan 21 22:54:41 EST 2017
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0920bffd139ffbea43cb682efab9a7fc21f4fd32
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76e3db7aa0e3b8f78a01ea15c554e3ba0e296316\\classes.dex
+base.1=C\:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76e3db7aa0e3b8f78a01ea15c554e3ba0e296316
+file.0=C\:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0920bffd139ffbea43cb682efab9a7fc21f4fd32\\classes.dex
