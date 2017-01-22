@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.daniel.rufasttrack"
+    package="com.rufasttrack.android"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -17,20 +17,19 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.daniel.rufasttrack.MainActivity" >
+        <activity android:name="com.rufasttrack.android.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.daniel.rufasttrack.CampusOneActivity" />
-        <activity android:name="com.example.daniel.rufasttrack.LocationOneActivity" />
-        <activity android:name="com.example.daniel.rufasttrack.CampusTwoActivity" />
-        <activity android:name="com.example.daniel.rufasttrack.LocationTwoActivity" />
-        <activity android:name="com.example.daniel.rufasttrack.NextBusAPI" />
-        <activity android:name="com.example.daniel.rufasttrack.DirectionsActivity" />
-        <activity android:name="com.example.daniel.rufasttrack.RouteActivity" />
+        <activity android:name="com.rufasttrack.android.CampusOneActivity" />
+        <activity android:name="com.rufasttrack.android.LocationOneActivity" />
+        <activity android:name="com.rufasttrack.android.CampusTwoActivity" />
+        <activity android:name="com.rufasttrack.android.LocationTwoActivity" />
+        <activity android:name="com.rufasttrack.android.DirectionsActivity" />
+        <activity android:name="com.rufasttrack.android.RouteActivity" />
     </application>
 
 </manifest>

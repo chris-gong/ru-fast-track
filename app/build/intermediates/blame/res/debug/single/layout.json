@@ -8,12 +8,12 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_campus_two.xml",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\src\\main\\res\\layout\\activity_campus_two.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_campus_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\src\\main\\res\\layout\\activity_campus_two.xml"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",

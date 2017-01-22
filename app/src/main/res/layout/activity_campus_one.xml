@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:clickable="true"
     android:focusableInTouchMode="true"
-    tools:context="com.example.daniel.rufasttrack.CampusOneActivity">
+    tools:context="com.rufasttrack.android.CampusOneActivity">
 
     <Button
         android:text="Next"

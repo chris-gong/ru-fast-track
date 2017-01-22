@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:3:5-45
+		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -22,7 +22,7 @@ ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:8:5-28:19
+ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:8:5-27:19
 MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\User\AndroidStudioProjects\RUFastTrack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.1.0] C:\Users\User\AndroidStudioProjects\RUFastTrack\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\User\AndroidStudioProjects\RUFastTrack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
@@ -42,7 +42,7 @@ MERGED from [com.android.support:support-compat:25.1.0] C:\Users\User\AndroidStu
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:13:9-40
-activity#com.example.daniel.rufasttrack.MainActivity
+activity#com.rufasttrack.android.MainActivity
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:14:19-47
@@ -56,34 +56,30 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.example.daniel.rufasttrack.CampusOneActivity
+activity#com.rufasttrack.android.CampusOneActivity
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:21:9-55
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:21:19-52
-activity#com.example.daniel.rufasttrack.LocationOneActivity
+activity#com.rufasttrack.android.LocationOneActivity
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:22:9-57
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:22:19-54
-activity#com.example.daniel.rufasttrack.CampusTwoActivity
+activity#com.rufasttrack.android.CampusTwoActivity
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:23:9-55
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:23:19-52
-activity#com.example.daniel.rufasttrack.LocationTwoActivity
+activity#com.rufasttrack.android.LocationTwoActivity
 ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:24:9-57
 	android:name
 		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:24:19-54
-activity#com.example.daniel.rufasttrack.NextBusAPI
-ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:25:9-48
+activity#com.rufasttrack.android.DirectionsActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:25:9-56
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:25:19-45
-activity#com.example.daniel.rufasttrack.DirectionsActivity
-ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:26:9-56
+		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:25:19-53
+activity#com.rufasttrack.android.RouteActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:26:9-60
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:26:19-53
-activity#com.example.daniel.rufasttrack.RouteActivity
-ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:27:9-60
-	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:27:19-48
+		ADDED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml:26:19-48
 uses-sdk
 INJECTED from C:\Users\User\AndroidStudioProjects\RUFastTrack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\User\AndroidStudioProjects\RUFastTrack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78

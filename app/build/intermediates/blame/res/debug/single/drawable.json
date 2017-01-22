@@ -48,12 +48,12 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rulogo.png",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\src\\main\\res\\drawable\\rulogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",

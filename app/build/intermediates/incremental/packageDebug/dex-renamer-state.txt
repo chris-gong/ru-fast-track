@@ -1,4 +1,4 @@
-#Sat Jan 21 22:54:41 EST 2017
+#Sun Jan 22 02:04:34 EST 2017
 base.0=C\:\\Users\\User\\AndroidStudioProjects\\RUFastTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0920bffd139ffbea43cb682efab9a7fc21f4fd32
 renamed.1=classes2.dex
 renamed.0=classes.dex

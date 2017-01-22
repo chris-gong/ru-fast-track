@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.daniel.rufasttrack.test" >
+    package="com.rufasttrack.android.test" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.daniel.rufasttrack"
-        android:targetPackage="com.example.daniel.rufasttrack" />
+        android:label="Tests for com.rufasttrack.android"
+        android:targetPackage="com.rufasttrack.android" />
 
     <application>
         <uses-library android:name="android.test.runner" />

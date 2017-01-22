@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:clickable="true"
     android:focusableInTouchMode="true"
-    tools:context="com.example.daniel.rufasttrack.LocationTwoActivity">
+    tools:context="com.rufasttrack.android.rufasttrack.com.rufasttrack.android.LocationTwoActivity">
 
     <Button
         android:text="Next"
